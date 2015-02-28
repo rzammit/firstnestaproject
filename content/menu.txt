@@ -1,0 +1,7 @@
+/
+articles
+archive
+portfolio
+categories
+  categories/design
+about-me
